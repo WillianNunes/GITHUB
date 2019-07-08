@@ -1,9 +1,14 @@
 
 #git courses
 
-este e um repositorio teste para ensinar como o git funciona 
 
 
+este e um repositorio teste para ensinar como o git funciona.i 
+
+
+
+
+saiba mais em {willianjusten.com.br} http://willianjusten.com.br) 
 
 
 
