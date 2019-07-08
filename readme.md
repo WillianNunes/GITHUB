@@ -8,7 +8,7 @@ este e um repositorio teste para ensinar como o git funciona.i
 
 
 
-saiba mais em {willianjusten.com.br} http://willianjusten.com.br) 
+saiba mais em {willianjusten.com.br}(http://willianjusten.com.br) 
 
 
 
