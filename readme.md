@@ -13,7 +13,7 @@ saiba mais em {willianjusten.com.br}(http://willianjusten.com.br)
 
 gostou do curso? quer mais ? ajuda com uma doacao , ate um cafe e valido =) 
 
-
+Outros cursos em : {willian justen cursos}(http://willianjusten.teachable.com)
 
 
 
